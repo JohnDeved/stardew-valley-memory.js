@@ -11,6 +11,6 @@
   "dependencies": {
     "colors": "^1.1.2",
     "express": "^4.15.2",
-    "memoryjs": "^2.0.3"
+    "memoryjs": "^3.2.3"
   }
 }
